@@ -1,0 +1,9 @@
+{
+	"name": "seal-framework",
+	"version": "0.0.1",
+	"author": "August Dong <august_dong@yahoo.com>",
+	"main": "index",
+	"dependencies": {
+		"express": "3.0.0"
+	}
+}
