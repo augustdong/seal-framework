@@ -1,6 +1,6 @@
 {
 	"name": "seal-framework",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "August Dong <august_dong@yahoo.com>",
 	"main": "index",
 	"dependencies": {
