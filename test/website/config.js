@@ -9,6 +9,9 @@ var config = {
 	path: {
 		//necessary
 		website: __dirname
+	},
+	db: {
+		connection: 'mongodb://localhost/mowangedu'
 	}
 };
 
