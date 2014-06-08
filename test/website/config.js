@@ -2,9 +2,9 @@ var config = {
 	version: '0.0.1',
 	server: {
 		//necessary
-		host: 'localhost',
+		host: '127.0.0.1',
 		//necessary
-		port: '80'
+		port: '8080'
 	},
 	path: {
 		//necessary
